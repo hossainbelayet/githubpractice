@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.bel{
+    color: orange;
+}
+
+.flaxible-container{
+    display: flex;
+    margin-bottom: 150px;
+    
+    padding: 18px;
+}
+.naz{
+    width: 90%;
+    height: 100%;
+}
+.half-width img{
+    width:280px;
+    height: 100%;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 11px;
+
+}
+.link-button{
+    
+    color: aliceblue;
+    text-align:center;
+    font-weight: 300px;
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 40px;
+    border-radius: 6px;
+    background-image: -o-linear-gradient(orange,red);
+}
+h1{
+    font-size:45px;
+   
+   border-radius: 10%;
+}
+h2{
+    font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: rgb(8, 82, 34);
+}
+.mom{
+   
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 10px;
+    box-shadow: 8px 8px 30px rgb(112, 112, 6);
+    width: 100%;
+    height: 25%;
+    padding-left: 20px;
+    margin-bottom: 100px;
+    border-radius: 6px;
+    
+ 
+}
+#full-stack{
+    border-left: 6px solid tomato;
+}
+#front-end{
+    border-left: 6px solid blue;
+} 
+    
+   
+
+
+.orange-color{
+    color: rgb(243, 18, 18);
+}
+#kanto{
+    background-color: aqua;
+    padding-left: 25px;
+    margin: 30%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+
+
